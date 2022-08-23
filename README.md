@@ -1,4 +1,4 @@
-# Linkedin Clone
+# LinkedIn Clone
 
 I developed a completely functional and responsive LinkedIn Clone from scratch with React.js.
 
